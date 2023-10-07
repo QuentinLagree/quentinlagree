@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![alt text](Linkedin.jpg "Bannière")
+![alt text](GithubBanner.jpg "My Banner")
