@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![alt text](GithubBanner.jpg "My Banner")
+![alt text](GithubBannerEdit.png "My Banner")
